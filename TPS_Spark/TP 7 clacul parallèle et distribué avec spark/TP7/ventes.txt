@@ -1,0 +1,6 @@
+2022 Tanger PcPortable 10000
+2022 Tanger Imprimante 1000
+2022 Rabat PcBureau 6000
+2020 Fes PcBureau 8000
+2019 Rabat HDD 500
+2019 Rabat SSD 700

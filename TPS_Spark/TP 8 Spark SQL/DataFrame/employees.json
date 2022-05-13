@@ -1,0 +1,5 @@
+[{"id": 1,"name": "Amina","phone": "0620202020","salary": 13000.00,"age": 22,"departement": "Informatique"},
+  {"id": 2,"name": "Bouchra","phone": "0620202020","salary": 23000.00,"age": 32,"departement": "Mécanique"},
+  {"id": 3,"name": "Yousra","phone": "0620202020","salary": 12500.00,"age": 45,"departement": "Informatique"},
+  {"id": 4,"name": "Zakiya","phone": "0620202020","salary": 24000.00,"age": 42,"departement": "Informatique"},
+  {"id": 5,"name": "Souad","phone": "0620202020","salary": 13000.00,"age": 22,"departement": "Mécanique"}]
